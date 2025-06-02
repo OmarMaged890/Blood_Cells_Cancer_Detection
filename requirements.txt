@@ -1,0 +1,8 @@
+## Requirements
+Python 3.7 or later    
+TensorFlow 2.x (or PyTorch, if preferred)  
+NumPy  
+OpenCV (`opencv-python`)  
+scikit-learn  
+matplotlib (for plotting training curves)  
+pandas (for logging results)  
